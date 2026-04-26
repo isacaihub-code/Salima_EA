@@ -12,3 +12,5 @@ Format: [YYYY-MM-DD] DECISION: ... | REASONING: ... | CONTEXT: ...
 [2026-04-26] DECISION: Goal is to become the leading consultancy in the MENA region | REASONING: Established before EA setup — owner directive | CONTEXT: Onboarding, Section 5
 
 [2026-04-26] DECISION: Operate solo and scale with systems, not employees first | REASONING: Established before EA setup — owner directive | CONTEXT: Onboarding, Section 5
+
+[2026-04-26] DECISION: First skill built = client communication + email drafting | REASONING: Highest daily time drain and highest risk area (client relationships) — owner's first choice from Build Queue | CONTEXT: Post-onboarding build queue
