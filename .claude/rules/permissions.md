@@ -14,4 +14,6 @@ BEFORE taking any of the following actions, you MUST ask for explicit approval a
 | Publish anything publicly | Show the content and confirm before posting |
 | Modify .env or credentials | Confirm before touching |
 
-*Additional restrictions will be added after onboarding (Phase 2, Section 5).*
+| Send emails or messages to clients | Never send — always save as draft for Salima to review and approve first |
+
+*Updated after onboarding — 2026-04-26.*
