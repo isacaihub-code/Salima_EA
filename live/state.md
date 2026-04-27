@@ -3,8 +3,8 @@
 *Updated at the end of each session. Read this FIRST on startup.*
 
 ## Last Session
-- **Date:** 2026-04-26
-- **Summary:** EA command centre setup complete. Onboarding finished. All intel files, rules, and CLAUDE.md populated.
+- **Date:** 2026-04-27
+- **Summary:** Verified Zapier MCP config in `.claude/settings.json`. Created `.mcp.json` at project root — Zapier SSE connection now portable and project-scoped.
 
 ## Open Tasks
 - Define Q2 2026 quarterly goals and milestones
