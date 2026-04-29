@@ -4,7 +4,7 @@
 
 ## Last Session
 - **Date:** 2026-04-27
-- **Summary:** Verified Zapier MCP config in `.claude/settings.json`. Created `.mcp.json` at project root — Zapier SSE connection now portable and project-scoped.
+- **Summary:** Removed Gmail MCP from `.claude/settings.json`. Archived `equipment/gmail-mcp/` to `archive/gmail-mcp-2026-04-27`. Gmail, Sheets, Docs, and Drive now handled via Zapier MCP — CLAUDE.md tool stack updated to reflect live status.
 
 ## Open Tasks
 - Define Q2 2026 quarterly goals and milestones

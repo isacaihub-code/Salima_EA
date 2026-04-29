@@ -1,11 +1,5 @@
 {
   "mcpServers": {
-    "gmail": {
-      "command": "node",
-      "args": [
-        "C:/Users/sahassou/Documents/Ai-project/Salima_EA/equipment/gmail-mcp/server.js"
-      ]
-    },
     "zapier": {
       "type": "sse",
       "url": "https://mcp.zapier.com/api/v1/connect?token=MDNiNzRmZmYtZmYxNy00YzQ1LWJhOGUtMzY2NzIzZDM1MDg5OldZdjJjMjlUb0I3YTl4N0dZRHl1ZkZadXV1M1VQcmlQeHdraDdYUWh6aHM9"

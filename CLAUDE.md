@@ -77,10 +77,11 @@ At session start, read focus.md and state.md. Reference others as needed — nev
 
 | Tool | Purpose | Status |
 |------|---------|--------|
-| Gmail | Client email and comms | Aspirational — no integration yet |
+| Gmail | Client email and comms | Live — via Zapier MCP |
+| Google Drive | File management | Live — via Zapier MCP |
+| Google Sheets | CRM — lead and client tracking | Live — via Zapier MCP |
+| Google Docs | Proposals, documents, writing | Live — via Zapier MCP |
 | Google Calendar | Scheduling | Aspirational — no integration yet |
-| Google Sheets | CRM — lead and client tracking | Aspirational — no integration yet |
-| Google Docs | Proposals, documents, writing | Aspirational — no integration yet |
 | LinkedIn | Lead generation, agency presence | Aspirational — no integration yet |
 
 ---
